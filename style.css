@@ -1,12 +1,12 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #e8f5e9;
-  color: #2e7d32;
+  background-color: #ffe6f0; /* pink pastel */
+  color: #880e4f; /* pink tua */
   margin: 0;
 }
 
 header {
-  background-color: #388e3c;
+  background-color: #f48fb1; /* pink sedang */
   color: white;
   padding: 20px;
   text-align: center;
@@ -33,7 +33,7 @@ nav ul li a:hover {
 }
 
 .hero {
-  background-color: #a5d6a7;
+  background-color: #fce4ec; /* pink sangat muda */
   text-align: center;
   padding: 40px;
 }
@@ -60,7 +60,7 @@ form textarea {
 form button {
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #388e3c;
+  background-color: #f48fb1; /* tombol pink */
   color: white;
   border: none;
   border-radius: 4px;
@@ -68,11 +68,11 @@ form button {
 }
 
 form button:hover {
-  background-color: #2e7d32;
+  background-color: #ad1457; /* pink tua */
 }
 
 footer {
-  background-color: #2e7d32;
+  background-color: #ad1457; /* lebih gelap untuk kontras */
   color: white;
   text-align: center;
   padding: 15px;
